@@ -42,9 +42,7 @@ body{margin: 0;
     transform: scale(0.5);
 
 }
-.but{
 
-}
 .box{display: inline-block;
 
     width: 0.8em;
@@ -69,7 +67,6 @@ body{margin: 0;
     transform: scale(0.8);
     font-size: 1.2em;
     float: left;
-
 }
 .ul2{list-style-type:none;
     margin: 0;
