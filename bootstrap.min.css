@@ -92,11 +92,14 @@ body{margin: 0;
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden;
-    font-size: 1em:
+    height: 3rem;
+    line-height: 3rem;
+    padding-left: 3.3rem;
 }
-.jiaqian{display: flex;
+.jiaqian{height: 3rem;
+    display: flex;
     justify-content: center;
-    align-items:flex-start;
+    align-items:center;
     padding: 0;
     margin: 0;
 }
@@ -126,9 +129,10 @@ body{margin: 0;
 .zhongjian{border-bottom: 1px solid #afbac0;
     padding-top: 0.3em;
 }
-.max{min-height: 100%;
-    padding-bottom: 3.5em;
+.max {
+    min-height: 100%;
 }
+
 .foot{width: 100%;
     height: 3.5em;
     position: fixed;
@@ -185,18 +189,13 @@ body{margin: 0;
     background-repeat: no-repeat;
     background-position: 90%;
     background-size: 0.8em;
-    border-right: 1px solid #afbac0;
     padding: 0.5em;
+
+}
+.dropdown1{border-right: 1px solid #afbac0;
     border-bottom: 1px solid #afbac0;
 }
-.dropdown1{text-align: center;
-    background-image: url("xiala.png");
-    background-repeat: no-repeat;
-    background-position: 90%;
-    background-size: 0.8em;
-    padding: 0.5em;
-    border-bottom: 1px solid #afbac0;
-
+.dropdown2{ border-bottom: 1px solid #afbac0;
 }
 
 .dropdown-content{
