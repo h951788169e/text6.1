@@ -169,10 +169,12 @@ body{margin: 0;
 .fot2{text-align: center;
     font-size: 0.8em;
     color: #68cdd5;
+    margin-bottom: 0.2em;
 }
 .fot4{text-align: center;
     font-size: 0.8em;
     color:#afbac0;
+    margin-bottom: 0.2em;
 }
 .dropbtn{
     padding: 0;
